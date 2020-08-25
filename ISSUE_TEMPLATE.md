@@ -1,6 +1,6 @@
 ---
-name: Sample template
-about: サンプルテンプレート。
+name: template
+about: テンプレート
 title: ''
 labels: ''
 assignees: itkr
